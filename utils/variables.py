@@ -10,3 +10,4 @@ VOLUMEN_PER_DAY=3.0e+06 #Tiene que estar por encima del percentil 30
 RATIO_52_WEEK_MAX_MIN=0.2
 
 
+
